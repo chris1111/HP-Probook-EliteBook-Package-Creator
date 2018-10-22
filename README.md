@@ -1,7 +1,7 @@
 # HP-Probook-EliteBook-Package-Creator
 
-## This Project is build on  May 19 2018 for trouble in Github I need to pushing agains today
-- Sorry for the Users and Followers
+#### This Project is build on  May 19 2018 for trouble in Github I need to pushing agains today
+#### Sorry for the Users and Followers
 
 ## Update 22 Oct 2018 Release V2: Build Package on APFS or HFS+J
 
