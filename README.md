@@ -14,7 +14,7 @@
 - Credit: Tester old Project for HP ProBook Laptop: Screenz,  platinumsteel,  josh08, Zsolt Szekely, lindros4-32, YvanO21
 
 - :RehabMan for all DSDT patch
-- :rehabman, vit9696, Mieze, lvs1974 kexts inside Clover
+- :Rehabman, vit9696, Mieze, lvs1974 kexts inside Clover
 - :Pike R Alpha SSDT Generator
 - :Apple Intel for IASL
 - :rehabman for patchmatic
