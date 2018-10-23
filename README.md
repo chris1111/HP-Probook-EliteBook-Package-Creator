@@ -10,18 +10,18 @@
 
 ## Credit:
 
-- Credit: Tester: Screenz, mus68, MueKo, platinumsteel
+- : Tester: Screenz, mus68, MueKo, platinumsteel
 - Credit: Tester old Project for HP ProBook Laptop: Screenz,  platinumsteel,  josh08, Zsolt Szekely, lindros4-32, YvanO21
 
-- Credit: RehabMan for all DSDT patch
-- kexts inside Clover Credit: rehabman, vit9696, Mieze, lvs1974 
-- SSDT Generator Credit: Pike R Alpha
-- Credit: Intel for IASL
-- Credit: rehabman for patchmatic
-- Credit: Apple for PackageMaker
-- Credit: packagesdev for goldin
-- Credit: Clover team for Clover UEFI
-- Credit: Packager chris1111
+- :RehabMan for all DSDT patch
+- :rehabman, vit9696, Mieze, lvs1974 kexts inside Clover
+- :Pike R Alpha SSDT Generator
+- :Apple Intel for IASL
+- :rehabman for patchmatic
+- :Apple for PackageMaker
+- :packagesdev for goldin
+- :Clover team for Clover UEFI
+- :Packager chris1111
 
 This program only uses clover and kexts injection, 
 there is no kext to modify in the system and no kext 
