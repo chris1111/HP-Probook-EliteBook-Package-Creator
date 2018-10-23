@@ -57,7 +57,7 @@ will install in macOS system.
 ## Screen Shot: 
 [![Modular Image Creation](https://i62.servimg.com/u/f62/18/50/18/69/captu562.png)
 
-[![Modular Image Creation](https://i.servimg.com/u/f25/18/50/18/69/screen57.png)
+[![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/captu269.png)
 
 [![Modular Image Creation](https://i62.servimg.com/u/f62/18/50/18/69/163.png)
 
