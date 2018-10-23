@@ -32,7 +32,7 @@ will install in macOS system.
 - The source is included in an image.dmg
 - The package is created by PackageMaker and its .pmdoc file included in the source
 - There is also a Create-Install-Media source folder to create the macOS installation tool
-- The Package (Option A) can be created on a mac using the APFS file system or HFS+J, I fix Packagemaker so that it works. [Credit: packagesdev for the Fix](https://github.com/packagesdev/goldin/blob/1b82322022abc4b43c4e10379614501e1c0d67b0/main.c#L661)
+- The Package (Option A) can be created on a mac using the APFS file system or HFS+J, I fix Packagemaker so that it works as expected in both file system. [Credit: packagesdev for the Fix](https://github.com/packagesdev/goldin/blob/1b82322022abc4b43c4e10379614501e1c0d67b0/main.c#L661)
 
 
 
