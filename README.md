@@ -87,7 +87,7 @@ will install in macOS system.
 
 [![Modular Image Creation](https://i62.servimg.com/u/f62/18/50/18/69/4captu13.png)
 
-## From the update 27 Oct 2018 in the release, I Removing --applicationpath for 10.13 and 10.14 in the Create Install Media tools. This is not showing in thwe video I add an option to separate (10.9 to 10.12) and (10.13 to 10.14)
+#### From the update 27 Oct 2018 in the release, I Removing --applicationpath for 10.13 and 10.14 in the Create Install Media tools. This is not showing in thwe video I add an option to separate (10.9 to 10.12) and (10.13 to 10.14)
 [![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/captu275.png)
 
 
