@@ -4,7 +4,6 @@
 #### Sorry for the Users and Followers
 
 ## Update 04 Nov 2018 Clover v2.4k r4731 
-## Update 22 Oct 2018 Release V2: Build Package on APFS or HFS+J
 
 ### Is a project to make easier installation of macOS on HP ProBook, EliteBook Laptop
 - Fully Support macOS Sierra 10.12, macOS High Sierra 10.13 and macOS Mojave 10.14
