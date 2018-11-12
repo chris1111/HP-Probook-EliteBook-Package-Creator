@@ -87,6 +87,12 @@ will install in macOS system.
 
 [![Modular Image Creation](https://i62.servimg.com/u/f62/18/50/18/69/4captu13.png)
 
+## From the Update 11 Nov 2018 Clover v2.4k r4752
+- For the Create Install Media HP Laptop tools Clover v2.4k r4752 + Update config.plist
+- FakeSMC and VoodooPS2 is selected by Default in menue Drivers Kexts
+## Screen Shot: This new option is not show in the video
+[![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/captu325.png)
+
 #### From the update 27 Oct 2018 in the release, I removing --applicationpath for 10.13 and 10.14 in the Create Install Media tools. This is not showing in the video I add an option to separate (10.9 to 10.12) and (10.13 to 10.14)
 [![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/captu276.png)
 [![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/captu277.png)
