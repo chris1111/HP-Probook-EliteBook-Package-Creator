@@ -3,7 +3,7 @@
 #### This Project is build on  May 19 2018 for trouble in Github I need to pushing agains today
 #### Sorry for the Users and Followers
 
-## Update 04 Nov 2018 Clover v2.4k r4731 
+## Update 11 Nov 2018 Clover v2.4k r4752
 
 ### Is a project to make easier installation of macOS on HP ProBook, EliteBook Laptop
 - Fully Support macOS Sierra 10.12, macOS High Sierra 10.13 and macOS Mojave 10.14
