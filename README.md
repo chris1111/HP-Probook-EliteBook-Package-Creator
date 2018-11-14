@@ -54,6 +54,15 @@ will install in macOS system.
 
 ## Eventually I will add 8 and 9 Series
 
+
+### Bios setup:
+
+- You must have the F50 Bios version for the 6 Series Laptop that has the Intel HD 3000
+- You need to have the F61 bios version for the Probook or EliteBook 7 Series and have the Intel HD 4000
+- Important Try do not take another Bios version!  it would not be dramatic but it's the known bios that works very well
+- You must activate UEFI in the bios. UEFI Hybrid with CSM for all laptops after installing macOS because the HP ProBook EliteBook Post Installer macOS install Clover in UEFI
+
+
 ## Screen Shot: 
 [![Modular Image Creation](https://i62.servimg.com/u/f62/18/50/18/69/captu562.png)
 
@@ -87,20 +96,13 @@ will install in macOS system.
 
 [![Modular Image Creation](https://i62.servimg.com/u/f62/18/50/18/69/4captu13.png)
 
-## From the Update 11 Nov 2018 Clover v2.4k r4752
-- For the Create Install Media HP Laptop tools Clover v2.4k r4752 + Update config.plist
-- FakeSMC and VoodooPS2 is selected by Default in menue Drivers Kexts
-## Screen Shot: This new option is not show in the video
-[![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/captu325.png)
-
-#### From the update 27 Oct 2018 in the release, I removing --applicationpath for 10.13 and 10.14 in the Create Install Media tools. This is not showing in the video I add an option to separate (10.9 to 10.12) and (10.13 to 10.14)
 [![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/captu276.png)
-[![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/captu277.png)
 
+[![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/captu277.png)
 
 
 ## [Download Main ➤➤ HP-Probook-EliteBook-Package-Creator.zip](https://github.com/chris1111/HP-Probook-EliteBook-Package-Creator/releases/tag/V2)
 
 ## Follow every steps in the Video ☟
-[![Modular Image Creation](https://i62.servimg.com/u/f62/18/50/18/69/high_s11.jpg)](https://youtu.be/bXcP2mqCI6E)
+[![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/system12.png)](https://youtu.be/3MHI98-IGEg)
 
