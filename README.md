@@ -54,8 +54,7 @@ will install in macOS system.
 - Fan Patch
 - Many more feature: Read all option in the Package HP-ProBook-EliteBook-macOS.pkg!
 
-## Eventually I will add 8 and 9 Series
-## Done ⇩
+## Eventually I will add 8 and 9 Series Done ⇩
 - Update 17 Nov 2018 Pre release available for testing ➣ [Pre release HP-Probook-EliteBook-Package-Creator](https://github.com/chris1111/HP-Probook-EliteBook-Package-Creator/releases/tag/V3)
 - Support 8/9 series HP ProBook Laptop
 
