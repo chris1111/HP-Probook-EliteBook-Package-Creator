@@ -111,4 +111,5 @@ will install in macOS system.
 
 #### Update 17 Nov 2018 Pre release available for testing ➣ [Pre release HP-Probook-EliteBook-Package-Creator](https://github.com/chris1111/HP-Probook-EliteBook-Package-Creator/releases/tag/V3)
 - Support 8/9 series HP ProBook Laptop
+- [Report success 8/9 series HP Laptop ➣ ](https://github.com/chris1111/HP-Probook-EliteBook-Package-Creator/issues/8)
 
