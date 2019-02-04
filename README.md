@@ -22,6 +22,7 @@
 - :Pike R Alpha SSDT Generator
 - :Apple Intel for IASL
 - :rehabman for patchmatic
+- :Goldfish64 for AudioPKG
 - :Apple for PackageMaker
 - :packagesdev for goldin
 - :Clover team for Clover UEFI
