@@ -14,8 +14,8 @@
 
 ## Credit:
 
-- : Tester: Screenz, mus68, MueKo, platinumsteel, doodoo94, jeremy19, arno608rw
-- Credit: Tester old Project for HP ProBook Laptop: Screenz,  platinumsteel,  josh08, Zsolt Szekely, lindros4-32, YvanO21
+- Tester: Screenz, mus68, MueKo, platinumsteel, doodoo94, jeremy19, arno608rw
+- Tester old Project for HP ProBook Laptop: Screenz,  platinumsteel,  josh08, Zsolt Szekely, lindros4-32, YvanO21
 
 - RehabMan for all DSDT patch, patchmatic
 - Rehabman, vit9696, Mieze, lvs1974 kexts inside Clover
