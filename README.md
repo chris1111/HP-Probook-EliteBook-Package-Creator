@@ -17,16 +17,15 @@
 - : Tester: Screenz, mus68, MueKo, platinumsteel, doodoo94, jeremy19, arno608rw
 - Credit: Tester old Project for HP ProBook Laptop: Screenz,  platinumsteel,  josh08, Zsolt Szekely, lindros4-32, YvanO21
 
-- :RehabMan for all DSDT patch
-- :Rehabman, vit9696, Mieze, lvs1974 kexts inside Clover
-- :Pike R Alpha SSDT Generator
-- :Apple Intel for IASL
-- :rehabman for patchmatic
-- :Goldfish64 for AudioPKG
-- :Apple for PackageMaker
-- :packagesdev for goldin
-- :Clover team for Clover UEFI
-- :Packager chris1111
+- RehabMan for all DSDT patch, patchmatic
+- Rehabman, vit9696, Mieze, lvs1974 kexts inside Clover
+- Pike R Alpha for SSDT Generator
+- Apple Intel for IASL
+- Goldfish64 for AudioPKG
+- Apple for PackageMaker
+- packagesdev for goldin
+- Clover team for Clover UEFI
+- chris1111 Package
 
 This program only uses clover and kexts injection, 
 there is no kext to modify in the system and no kext 
