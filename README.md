@@ -25,7 +25,7 @@
 - Apple for PackageMaker
 - packagesdev for goldin
 - Clover team for Clover UEFI
-- chris1111 Package
+- chris1111 for the Package
 
 This program only uses clover and kexts injection, 
 there is no kext to modify in the system and no kext 
