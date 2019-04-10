@@ -8,7 +8,7 @@
 #### Sorry for the Users and Followers
 
 ### Update 10 April 2019 
-- Fix issue HD 3000 Mojave 10.14.4 6 for series laptop
+- Fix issue HD 3000 Mojave 10.14.4 for 6 series laptop
 - Now the patch HD 3000 is installed by the HP ProBook EliteBook Package, no more package is need.
 
 ### Is a project to make easier installation of macOS on HP ProBook, EliteBook Laptop
