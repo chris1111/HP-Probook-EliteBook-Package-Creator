@@ -7,8 +7,9 @@
 #### This Project is build on  May 19 2018 for trouble in Github I need to pushing agains today
 #### Sorry for the Users and Followers
 
-### Update 06 April 2019
-- Ad new option macOS Mojave 10.14 (4) Fix Intel HD 3000 on 6 series laptop
+### Update 10 April 2019 
+- Fix issue HD 3000 Mojave 10.14.4 6 for series laptop
+- Now the patch HD 3000 is installed by the HP ProBook EliteBook Package, no more package is need.
 
 ### Is a project to make easier installation of macOS on HP ProBook, EliteBook Laptop
 - Fully Support macOS Sierra 10.12, macOS High Sierra 10.13 and macOS Mojave 10.14
