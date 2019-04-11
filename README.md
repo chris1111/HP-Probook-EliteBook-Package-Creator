@@ -26,6 +26,7 @@
 - Goldfish64 for AudioPKG
 - Apple for PackageMaker
 - packagesdev for goldin
+- patch HD 3000 Framework 10.14.4 dosdude1
 - Clover team for Clover UEFI
 - chris1111 for the Package
 
