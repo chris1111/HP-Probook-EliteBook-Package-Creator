@@ -7,8 +7,8 @@
 #### This Project is build on  May 19 2018 for trouble in Github I need to pushing agains today
 #### Sorry for the Users and Followers
 
-### Update 16 May 2019 
-- add support HD 3000 Mojave 10.14.5 for 6 for series laptop
+### Update 07 June 2019
+- AirportBrcmFixup.kext update Bluetooth kext
 
 
 ### Is a project to make easier installation of macOS on HP ProBook, EliteBook Laptop
