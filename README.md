@@ -8,7 +8,7 @@
 #### Sorry for the Users and Followers
 
 ### Update 07 June 2019
-- AirportBrcmFixup.kext update Bluetooth kext
+- AirportBrcmFixup.kext update Bluetooth kext for 10.14
 
 
 ### Is a project to make easier installation of macOS on HP ProBook, EliteBook Laptop
