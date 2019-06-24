@@ -7,12 +7,12 @@
 #### This Project is build on  May 19 2018 for trouble in Github I need to pushing agains today
 #### Sorry for the Users and Followers
 
-### Update 07 June 2019
-- AirportBrcmFixup.kext update Bluetooth kext for 10.14
+### Update 23 June 2019 Clover v2.4k r4971 + Support macOS Catalina 10.15
+
 
 
 ### Is a project to make easier installation of macOS on HP ProBook, EliteBook Laptop
-- Fully Support macOS Sierra 10.12, macOS High Sierra 10.13 and macOS Mojave 10.14
+- Fully Support macOS Sierra 10.12, macOS High Sierra 10.13, macOS Mojave 10.14 and macOS Catalina 10.15
 
 ## Credit:
 
@@ -24,8 +24,7 @@
 - Pike R Alpha for SSDT Generator
 - Apple Intel for IASL
 - Goldfish64 for AudioPKG
-- Apple for PackageMaker
-- packagesdev for goldin
+- Apple for Pkgbuild
 - dosdude1, AsentientBot HD 3000 Patch Framework 10.14
 - Clover team for Clover UEFI
 - chris1111 for the Package
@@ -37,9 +36,8 @@ will install in macOS system.
 
 ### How its work:
 - The source is included in an image.dmg
-- The package is created by PackageMaker and its .pmdoc file included in the source
+- The package is created by pkgbuild
 - There is also a Create-Install-Media source folder to create the macOS installation tool
-- The Package (Option A) can be created on a mac using the APFS file system or HFS+J, I fix Packagemaker so that it works as expected in both file system. [Credit: packagesdev for the Fix](https://github.com/packagesdev/goldin/blob/1b82322022abc4b43c4e10379614501e1c0d67b0/main.c#L661)
 
 
 
@@ -74,7 +72,7 @@ will install in macOS system.
 
 [![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/captu269.png)
 
-[![Modular Image Creation](https://i62.servimg.com/u/f62/18/50/18/69/163.png)
+[![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/build_10.png)
 
 [![Modular Image Creation](https://i62.servimg.com/u/f62/18/50/18/69/235.png)
 
