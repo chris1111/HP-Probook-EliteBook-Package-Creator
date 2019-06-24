@@ -8,7 +8,7 @@
 #### Sorry for the Users and Followers
 
 ### Update 23 June 2019 Clover v2.4k r4971 + Support macOS Catalina 10.15
-- NOTE: The create install media tool can not be used in macOS Catalina 10.15, you must use it in Mojave 10.14 or lower because the Catalina Beta is bugy
+- NOTE: The create install media tool can not be used in macOS Catalina 10.15, you must use it in Mojave 10.14 or lower because the Catalina Beta is bugy. So to create a Catalina USB key, do it in macOS Mojave
 
 
 
