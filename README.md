@@ -16,7 +16,6 @@
 - Fully Support macOS Sierra 10.12, macOS High Sierra 10.13, macOS Mojave 10.14 and macOS Catalina 10.15
 
 ## Credit:
-
 - Tester: Screenz, mus68, MueKo, platinumsteel, doodoo94, jeremy19, arno608rw
 - Tester old Project for HP ProBook Laptop: Screenz,  platinumsteel,  josh08, Zsolt Szekely, lindros4-32, YvanO21
 
