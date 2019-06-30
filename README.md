@@ -7,11 +7,8 @@
 #### This Project is build on  May 19 2018 for trouble in Github I need to pushing agains today
 #### Sorry for the Users and Followers
 
-### Update 23 June 2019 Clover v2.4k r4971 + Support macOS Catalina 10.15
-- NOTE: The create install media tool can not be used in macOS Catalina 10.15, you must use it in Mojave 10.14 or lower because the Catalina Beta is bugy. So to create a Catalina USB key, do it in macOS Mojave
-
-
-
+### Update 29 June 2019 Support USB Creation on MacOS Catalina 10.15
+ 
 ### Is a project to make easier installation of macOS on HP ProBook, EliteBook Laptop
 - Fully Support macOS Sierra 10.12, macOS High Sierra 10.13, macOS Mojave 10.14 and macOS Catalina 10.15
 
