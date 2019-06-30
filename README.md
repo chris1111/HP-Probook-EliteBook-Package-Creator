@@ -1,4 +1,4 @@
-# HP-Probook-EliteBook-Package-Creator
+## HP-Probook-EliteBook-Package-Creator
 - This is to test macOS
 - Buy a mac after testing macOS
 
@@ -7,9 +7,9 @@
 #### This Project is build on  May 19 2018 for trouble in Github I need to pushing agains today
 #### Sorry for the Users and Followers
 
-### Update 29 June 2019 Support USB Creation on MacOS Catalina 10.15
+#### Update 29 June 2019 Support USB Creation on MacOS Catalina 10.15
  
-### Is a project to make easier installation of macOS on HP ProBook, EliteBook Laptop
+#### Is a project to make easier installation of macOS on HP ProBook, EliteBook Laptop
 - Fully Support macOS Sierra 10.12, macOS High Sierra 10.13, macOS Mojave 10.14 and macOS Catalina 10.15
 
 ## Credit:
@@ -35,7 +35,6 @@ will install in macOS system.
 - The source is included in an image.dmg
 - The package is created by pkgbuild
 - There is also a Create-Install-Media source folder to create the macOS installation tool
-
 
 
 ### What can HP-ProBook-EliteBook-macOS.pkg do:
