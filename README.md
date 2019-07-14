@@ -7,7 +7,9 @@
 #### This Project is build on  May 19 2018 for trouble in Github I need to pushing agains today
 #### Sorry for the Users and Followers
 
-#### Update 29 June 2019 Support USB Creation on MacOS Catalina 10.15
+#### Update 14 July 2019
+- No need for RW tools because the Package supports RW in Catalina 10.15
+- New Background for the package
  
 #### Is a project to make easier installation of macOS on HP ProBook, EliteBook Laptop
 - Fully Support macOS Sierra 10.12, macOS High Sierra 10.13, macOS Mojave 10.14 and macOS Catalina 10.15
@@ -76,17 +78,17 @@ will install in macOS system.
 [![Modular Image Creation](https://i62.servimg.com/u/f62/18/50/18/69/source10.png)
 
 ## Screen Shot: HP-ProBook-EliteBook-macOS.pkg 
-[![Modular Image Creation](https://i62.servimg.com/u/f62/18/50/18/69/1captu42.png)
+[![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/captu741.png)
 
-[![Modular Image Creation](https://i62.servimg.com/u/f62/18/50/18/69/2captu25.png)
+[![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/captu742.png)
 
-[![Modular Image Creation](https://i62.servimg.com/u/f62/18/50/18/69/5captu11.png)
+[![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/captu743.png)
 
 ## Menue 6 Series
-[![Modular Image Creation](https://i62.servimg.com/u/f62/18/50/18/69/menue_10.png)
+[![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/captu744.png)
 
 ## Menue 7 Series
-[![Modular Image Creation](https://i62.servimg.com/u/f62/18/50/18/69/menue_11.png)
+[![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/captu745.png)
 
 ## Note Important about HP-ProBook-EliteBook-macOS.pkg: 
 - To use this program you will have to boot on a fresh installation with the Create Install Media HP Laptop tools « IMPORTANT » without any file .aml (DSDT.aml), (SSDT.aml) in  /EFI / CLOVER / ACPI / patched 
