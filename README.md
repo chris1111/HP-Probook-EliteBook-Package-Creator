@@ -7,8 +7,8 @@
 #### This Project is build on  May 19 2018 for trouble in Github I need to pushing agains today
 #### Sorry for the Users and Followers
 
-#### Update 18 July 2019
-- Update Bluetooth drivers
+#### Update 01 August 2019
+- Update config.plist
  
 #### Is a project to make easier installation of macOS on HP ProBook, EliteBook Laptop
 - Fully Support macOS Sierra 10.12, macOS High Sierra 10.13, macOS Mojave 10.14 and macOS Catalina 10.15
