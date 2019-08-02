@@ -7,7 +7,7 @@
 #### This Project is build on  May 19 2018 for trouble in Github I need to pushing agains today
 #### Sorry for the Users and Followers
 
-#### Update 01 August 2019
+#### Update 02 August 2019
 - Update config.plist
  
 #### Is a project to make easier installation of macOS on HP ProBook, EliteBook Laptop
