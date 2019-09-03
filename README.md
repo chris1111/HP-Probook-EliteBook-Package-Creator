@@ -7,8 +7,9 @@
 #### This Project is build on  May 19 2018 for trouble in Github I need to pushing agains today
 #### Sorry for the Users and Followers
 
-#### Update 02 August 2019
-- Update config.plist
+#### Update 03 Sept 2019
+- Update config.plist, remove patch ACPI + Add SSDT-FIXCAT.aml
+Add Support Catalina Beta 7  for 6 series HD 3000
  
 #### Is a project to make easier installation of macOS on HP ProBook, EliteBook Laptop
 - Fully Support macOS Sierra 10.12, macOS High Sierra 10.13, macOS Mojave 10.14 and macOS Catalina 10.15
