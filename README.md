@@ -7,8 +7,7 @@
 #### This Project is build on  May 19 2018 for trouble in Github I need to pushing agains today
 #### Sorry for the Users and Followers
 
-#### Update 03 Sept 2019
-- Update 15 sept 2019:
+#### Update 15 Sept 2019
 Removing Support Intel HD 3000 Mojave and Catalina for 6 series HP Probook laptop 
 6 series HP Probook EliteBook.support only macOS Sierra 10.12 to macOS High Sierra 10.13
 ----------------------------------------------------------------------------
