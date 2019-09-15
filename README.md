@@ -8,8 +8,10 @@
 #### Sorry for the Users and Followers
 
 #### Update 03 Sept 2019
-- Update config.plist, remove patch ACPI + Add SSDT-FIXCAT.aml
-Add Support Catalina Beta 7  for 6 series HD 3000
+- Update 15 sept 2019:
+Removing Support Intel HD 3000 Mojave and Catalina for 6 series HP Probook laptop 
+6 series HP Probook EliteBook.support only macOS Sierra 10.12 to macOS High Sierra 10.13
+----------------------------------------------------------------------------
  
 #### Is a project to make easier installation of macOS on HP ProBook, EliteBook Laptop
 - Fully Support macOS Sierra 10.12, macOS High Sierra 10.13, macOS Mojave 10.14 and macOS Catalina 10.15
