@@ -25,7 +25,6 @@
 - Apple Intel for IASL
 - Goldfish64 for AudioPKG
 - Apple for Pkgbuild
-- dosdude1, AsentientBot HD 3000 Patch Framework 10.14 / 10.15
 - Clover team for Clover UEFI
 - chris1111 for the Package
 
