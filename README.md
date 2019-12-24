@@ -7,7 +7,7 @@
 #### This Project is build on  May 19 2018 for trouble in Github I need to pushing agains today
 #### Sorry for the Users and Followers
 
-#### Update 17 Nov 2019: Update Bluetooth kext Update AppleALC.kext, Lilu.kext
+#### Update 23 Dec 2019: Update Bluetooth kexts
 ----------------------------------------------------------------------------
  
 #### Is a project to make easier installation of macOS on HP ProBook, EliteBook Laptop
