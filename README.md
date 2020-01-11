@@ -7,7 +7,7 @@
 #### This Project is build on  May 19 2018 for trouble in Github I need to pushing agains today
 #### Sorry for the Users and Followers
 
-#### Update 23 Dec 2019: Update Bluetooth kexts
+#### Update 10 Jan 2020: Build final package with Productbuild Update Clover r5103
 ----------------------------------------------------------------------------
  
 #### Is a project to make easier installation of macOS on HP ProBook, EliteBook Laptop
