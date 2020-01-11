@@ -7,7 +7,8 @@
 #### This Project is build on  May 19 2018 for trouble in Github I need to pushing agains today
 #### Sorry for the Users and Followers
 
-#### Update 10 Jan 2020: Build final package with Productbuild Update Clover r5103
+#### Latest Update 11 Jan 2020: Build final package with Productbuild Update Clover r5103, Add Gatekeeper, correction typo, Correction Create Install Media HP Laptop (package Clover)
+- New video english will follow tomorow 12 JAN 2010
 ----------------------------------------------------------------------------
  
 #### Is a project to make easier installation of macOS on HP ProBook, EliteBook Laptop
