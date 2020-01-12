@@ -8,7 +8,7 @@
 #### Sorry for the Users and Followers
 
 #### Latest Update 11 Jan 2020: Build final package with Productbuild Update Clover r5103, Add Gatekeeper, correction typo, Correction Create Install Media HP Laptop (package Clover)
-- New video english will follow tomorow 12 JAN 2010
+- New video english 12 JAN 2020
 ----------------------------------------------------------------------------
  
 #### Is a project to make easier installation of macOS on HP ProBook, EliteBook Laptop
@@ -102,7 +102,7 @@ will install in macOS system.
 [![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/captu277.png)
 
 ## Follow every steps in the Video ☟
-[![Modular Image Creation](https://camo.githubusercontent.com/a6c46efbe46e92ec50092a6874259de8d9157a03/68747470733a2f2f6932352e73657276696d672e636f6d2f752f6632352f31382f35302f31382f36392f766964656f31322e706e67)](https://youtu.be/vRWtsBTYKws)
+[![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/video16.png)](https://youtu.be/0M10TUtsnGA)
 
 
 ## [Download Main ➤➤ HP-Probook-EliteBook-Package-Creator.zip](https://github.com/chris1111/HP-Probook-EliteBook-Package-Creator/releases/tag/V2)
