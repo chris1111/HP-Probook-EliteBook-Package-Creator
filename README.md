@@ -11,7 +11,7 @@
 #### This Project is build on  May 19 2018 for trouble in Github I need to pushing agains today
 #### Sorry for the Users and Followers
 
-#### Latest Update 23 Fev 2020: Adapted for macOS Catalina 10.15.4
+#### Latest Update 23 Feb 2020: Adapted for macOS Catalina 10.15.4
 - Update 11 Jan 2020: Build final package with Productbuild Update Clover r5103, Add Gatekeeper, correction typo, Correction Create Install Media HP Laptop (package Clover)
 - New video english 12 JAN 2020
 ----------------------------------------------------------------------------
