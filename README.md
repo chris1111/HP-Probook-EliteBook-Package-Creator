@@ -11,7 +11,8 @@
 #### This Project is build on  May 19 2018 for trouble in Github I need to pushing agains today
 #### Sorry for the Users and Followers
 
-#### Latest Update 08 April 2020 Update apfs.efi
+#### Latest Update 01 June 2020 Update AirportBrcmFixup for 10.14 and 10.15
+- Update 08 April 2020 Update apfs.efi
 - Update 21 March 2020: Install SSDT-FIXCAT.aml for macOS Catalina only
 - Update 23 Feb 2020: Adapted for macOS Catalina 10.15.4
 - Update 11 Jan 2020: Build final package with Productbuild Update Clover r5103, Add Gatekeeper, correction typo, Correction Create Install Media HP Laptop (package Clover)
