@@ -68,7 +68,9 @@ will install in macOS system.
 - Known working bios version for the Probook or EliteBook 7 Series and have the Intel HD 4000 is F61, F62, F64
 - Important Try do not take another Bios version!  it would not be dramatic but it's the known bios that works very well
 - You must activate UEFI in the bios. UEFI Hybrid with CSM for all laptops after installing macOS because the HP ProBook EliteBook Post Installer macOS install Clover in UEFI
+- Device Option --- LAN/WLAN Switching ➡︎ disable
 - Disable FastBoot
+
 
 
 ## Screen Shot: 
