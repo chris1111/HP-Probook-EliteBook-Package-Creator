@@ -3,7 +3,7 @@
 - Buy a mac after testing macOS
 #### Any issue without the Log or all relevant information will be deleted. This does not work on a VM
 
-#### For macOS 11 Big Sur ➣ [HP-Probook-EliteBook-Package-Creator-OC](https://github.com/chris1111/HP-Probook-EliteBook-Package-Creator-OC)
+#### For macOS 11 Big Sur and macOS Monterey 12 ➣ [HP-Probook-EliteBook-Package-Creator-OC](https://github.com/chris1111/HP-Probook-EliteBook-Package-Creator-OC)
 
 ![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/68747419.png)
 
