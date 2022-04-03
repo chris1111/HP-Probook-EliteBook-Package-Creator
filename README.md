@@ -10,7 +10,8 @@
 #### This Project is build on  May 19 2018 for trouble in Github I need to pushing agains today
 #### Sorry for the Users and Followers
 
-#### Latest Update 01 June 2020 Update AirportBrcmFixup for 10.14 and 10.15
+#### Latest Update 03 April 2022 adapted for building in latest macOS
+- Update 01 June 2020 Update AirportBrcmFixup for 10.14 and 10.15
 - Update 08 April 2020 Update apfs.efi
 - Update 21 March 2020: Install SSDT-FIXCAT.aml for macOS Catalina only
 - Update 23 Feb 2020: Adapted for macOS Catalina 10.15.4
